@@ -5,5 +5,19 @@
     "title": "A Minimal Homepage",
     "section": "",
     "text": "This is a minimal quarto homepage."
+  },
+  {
+    "objectID": "Impressum.html",
+    "href": "Impressum.html",
+    "title": "Impressum",
+    "section": "",
+    "text": "Your Name."
+  },
+  {
+    "objectID": "HowTo.html",
+    "href": "HowTo.html",
+    "title": "How To Do This",
+    "section": "",
+    "text": "Install R: https://cran.r-project.org/\nInstall RStudio: https://posit.co/download/rstudio-desktop/\nInstall the quarto suite: https://quarto.org/\nRegister GitHub: https://github.com/\n\nStart RStudio.\n\nChoose: File and New Project\nChoose: Project Type “Quarto Website”"
   }
 ]
