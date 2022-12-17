@@ -4,7 +4,7 @@
     "href": "HowTo.html",
     "title": "How To Do This",
     "section": "",
-    "text": "Install R: https://cran.r-project.org/\nInstall RStudio: https://posit.co/download/rstudio-desktop/\nInstall the quarto suite: https://quarto.org/\nRegister GitHub: https://github.com/\n\nStart RStudio.\n\nChoose: File and New Project\nChoose: Project Type “Quarto Website”"
+    "text": "Why Do This\nWanna see the file structure and language before installing?\nThe underlying code for this site is hosted on GitHub:\nhttps://github.com/EUV-student/homepage\n\n\n\n\n\nThe landing page is index.qmd, inspect it in your browser:\nhttps://github.com/EUV-student/homepage/blob/main/index.qmd\n\n\n\n\n\nYou see that <center> text </center> centers text and elements.\nThe iframe tag comes straightforward from YouTube (right click embed code).\nIf you like that, continue.\n\n\nHow To Do This\n\nInstall R: https://cran.r-project.org/\nInstall RStudio: https://posit.co/download/rstudio-desktop/\nInstall the quarto suite: https://quarto.org/\nRegister GitHub: https://github.com/\n\nStart RStudio.\n\nChoose: File and New Project\nChoose: Project Type “Quarto Website”"
   },
   {
     "objectID": "Impressum.html",

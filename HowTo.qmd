@@ -2,6 +2,35 @@
 title: "How To Do This"
 ---
 
+# Why Do This
+
+Wanna see the file structure and language before installing? 
+
+The underlying code for this site is hosted on GitHub:  
+
+<https://github.com/EUV-student/homepage>
+
+```{r, echo=F, warning=F, message=F}
+library(webshot2)
+webshot("https://github.com/EUV-student/homepage")
+```
+
+The landing page is `index.qmd`, inspect it in your browser: 
+
+<https://github.com/EUV-student/homepage/blob/main/index.qmd>
+
+```{r, echo=F, warning=F, message=F}
+webshot("https://github.com/EUV-student/homepage/blob/main/index.qmd")
+```
+
+You see that `<center> text </center>` centers text and elements. 
+
+The `iframe` tag comes straightforward from YouTube (right click embed code). 
+
+If you like that, continue.
+
+# How To Do This
+
 - Install R: <https://cran.r-project.org/>
 - Install RStudio: <https://posit.co/download/rstudio-desktop/>
 - Install the quarto suite: <https://quarto.org/>
