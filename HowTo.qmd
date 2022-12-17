@@ -1,0 +1,16 @@
+---
+title: "How To Do This"
+---
+
+- Install R: <https://cran.r-project.org/>
+- Install RStudio: <https://posit.co/download/rstudio-desktop/>
+- Install the quarto suite: <https://quarto.org/>
+- Register GitHub: <https://github.com/>
+
+Start RStudio. 
+
+- Choose: File and New Project
+- Choose: Project Type "Quarto Website"
+
+
+

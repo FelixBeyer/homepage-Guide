@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Personal Homepage"
+  cookie-consent: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - HowTo.qmd
+    background: "light"
+ 
+  sidebar:
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Smiley_green_alien_nerdy.svg/46px-Smiley_green_alien_nerdy.svg.png?20220911030431"
+    pinned: true
+    align: center
+    header: "Green Alien Nerd"
+    footer: "You like it, if you like it."
+    
+  page-footer:
+    left: "2022"
+    right: 
+      - href: Impressum.qmd
+    
+format:
+  html:
+    theme: simplex
+    toc: false
+    title-block-banner: "Images/aviation.png"
+    title-block-style: default
+    title-block-categories: false
+    title-block-banner-color: body
+    
+editor: visual
+
