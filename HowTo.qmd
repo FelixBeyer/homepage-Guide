@@ -2,44 +2,34 @@
 title: "How To Do This"
 ---
 
-# Why Do This
-
-Wanna see the file structure and language before installing? 
-
-The underlying code for this site is hosted on GitHub:  
-
-<https://github.com/EUV-student/homepage>
-
-```{r, echo=F, warning=F, message=F}
-library(webshot2)
-webshot("https://github.com/EUV-student/homepage")
-```
-
-The landing page is `index.qmd`, inspect it in your browser: 
-
-<https://github.com/EUV-student/homepage/blob/main/index.qmd>
-
-```{r, echo=F, warning=F, message=F}
-webshot("https://github.com/EUV-student/homepage/blob/main/index.qmd")
-```
-
-You see that `<center> text </center>` centers text and elements. 
-
-The `iframe` tag comes straightforward from YouTube (right click embed code). 
-
-If you like that, continue.
-
 # How To Do This
 
-- Install R: <https://cran.r-project.org/>
-- Install RStudio: <https://posit.co/download/rstudio-desktop/>
-- Install the quarto suite: <https://quarto.org/>
-- Register GitHub: <https://github.com/>
+- Install R: <https://cran.r-project.org/> (the underlying software)
+- Install RStudio: <https://posit.co/download/rstudio-desktop/> (the software IDE you open to view and edit)
+- Install the quarto suite: <https://quarto.org/> (the specific software to build this kind of homepage)
+- Register GitHub: <https://github.com/> (a platform to host your files)
+
+Actually you can download this entire project in a structured way.
 
 Start RStudio. 
 
 - Choose: File and New Project
-- Choose: Project Type "Quarto Website"
+- Choose: Project Type "Version Control" and Git
+- Enter the GitHub Repository (a directory) <https://github.com/EUV-student/homepage>
+- Choose your local path and store the project somewhere
+
+Save everything. Restart RStudio. 
+
+![RStudio](RStudio.png)
+
+Are you ready to play around with it? Edit some text, click "render website" and see what happens. 
+
+
+
+
+
+
+
 
 
 

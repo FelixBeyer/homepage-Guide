@@ -4,7 +4,7 @@
     "href": "HowTo.html",
     "title": "How To Do This",
     "section": "",
-    "text": "Why Do This\nWanna see the file structure and language before installing?\nThe underlying code for this site is hosted on GitHub:\nhttps://github.com/EUV-student/homepage\n\n\n\n\n\nThe landing page is index.qmd, inspect it in your browser:\nhttps://github.com/EUV-student/homepage/blob/main/index.qmd\n\n\n\n\n\nYou see that <center> text </center> centers text and elements.\nThe iframe tag comes straightforward from YouTube (right click embed code).\nIf you like that, continue.\n\n\nHow To Do This\n\nInstall R: https://cran.r-project.org/\nInstall RStudio: https://posit.co/download/rstudio-desktop/\nInstall the quarto suite: https://quarto.org/\nRegister GitHub: https://github.com/\n\nStart RStudio.\n\nChoose: File and New Project\nChoose: Project Type “Quarto Website”"
+    "text": "How To Do This\n\nInstall R: https://cran.r-project.org/ (the underlying software)\nInstall RStudio: https://posit.co/download/rstudio-desktop/ (the software IDE you open to view and edit)\nInstall the quarto suite: https://quarto.org/ (the specific software to build this kind of homepage)\nRegister GitHub: https://github.com/ (a platform to host your files)\n\nActually you can download this entire project in a structured way.\nStart RStudio.\n\nChoose: File and New Project\nChoose: Project Type “Version Control” and Git\nEnter the GitHub Repository (a directory) https://github.com/EUV-student/homepage\nChoose your local path and store the project somewhere\n\nSave everything. Restart RStudio.\n\n\n\nRStudio\n\n\nAre you ready to play around with it? Edit some text, click “render website” and see what happens."
   },
   {
     "objectID": "Impressum.html",
@@ -19,5 +19,12 @@
     "title": "A Minimal Homepage",
     "section": "",
     "text": "This is a minimal quarto homepage."
+  },
+  {
+    "objectID": "Why.html",
+    "href": "Why.html",
+    "title": "Why Do This",
+    "section": "",
+    "text": "Why Do This\nIt’s free. It’s challenging. It can be fun.\n\n\nWhat You Can Expected\nWanna see the file structure and language before installing?\nThe homepage is a set of files. Each file can be opened with a text editor.\nThe underlying code for this site is hosted on GitHub:\nhttps://github.com/EUV-student/homepage\n\n\n\n\n\nThe landing page is index.qmd, inspect it in your browser:\nhttps://github.com/EUV-student/homepage/blob/main/index.qmd\n\n\n\n\n\nYou see that <center> text </center> centers text and elements.\nThe iframe tag comes straightforward from YouTube (right click embed code).\nStyling works through markup languages. You can use html and markdown.\nOther markup languages can be found in LaTeX or Wikipedia.\nIf you like that, continue."
   }
 ]
