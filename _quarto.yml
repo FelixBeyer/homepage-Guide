@@ -11,6 +11,7 @@ website:
         text: Home
       - Why.qmd
       - HowTo.qmd
+      - theGitWorkflow.qmd
     background: "light"
  
   sidebar:
