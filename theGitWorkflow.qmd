@@ -9,10 +9,10 @@ Do a pull request!
 3.  go on your page of the newly copied repository and click "Code" to copy the given URL
 4.  Open RStudio -\> New Project -\> Version Control -\> Git
 5.  paste your URL into the given text field and save it where it makes sense for you -\> create project
-6.  do your changes and modifications
-7.  When you think your are ready, click on one possible git button -\> Commit\
+6.  do your changes; when you finished one modification, clickon one of the possible git button -\> Commit\
     ![](Screenshot%20Git%20Pull%20request.png)
-8.  mark the files you want copy to your github repository; leave a clear commit message so that the others understand what you have changed
+7.  leave a clear commit message for each change so that the others understand what you have changed
+8.  mark the files you want copy to your github repository (mark all files if your not sure which are needed for the project)
 9.  use commit -\> push
 10. back to your repository on Github: click on "contribute" -\> Open pull request
 11. On the new page you can explain your changes furthermore; click on "create a pull request" to send your modifications to the upstream version so that the original owner of the repository can review your modifications

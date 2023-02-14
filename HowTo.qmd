@@ -4,32 +4,22 @@ title: "How To Do This"
 
 # How To Do This
 
-- Install R: <https://cran.r-project.org/> (the underlying software)
-- Install RStudio: <https://posit.co/download/rstudio-desktop/> (the software IDE you open to view and edit)
-- Install the quarto suite: <https://quarto.org/> (the specific software to build this kind of homepage)
-- Register GitHub: <https://github.com/> (a platform to host your files)
+-   Install R: <https://cran.r-project.org/> (the underlying software)
+-   Install RStudio: <https://posit.co/download/rstudio-desktop/> (the software IDE you open to view and edit)
+-   Install the quarto suite: <https://quarto.org/> (the specific software to build this kind of homepage)
+-   Register GitHub: <https://github.com/> (a platform to host your files)
 
 Actually you can download this entire project in a structured way.
 
-Start RStudio. 
+Start RStudio.
 
-- Choose: File and New Project
-- Choose: Project Type "Version Control" and Git
-- Enter the GitHub Repository (a directory) <https://github.com/EUV-student/homepage>
-- Choose your local path and store the project somewhere
+-   Choose: File and New Project
+-   Choose: Project Type "Version Control" and Git
+-   Enter the GitHub Repository (a directory) <https://github.com/EUV-student/homepage>
+-   Choose your local path and store the project somewhere
 
-Save everything. Restart RStudio. 
+Save everything. Restart RStudio.
 
 ![RStudio](RStudio.png)
 
-Are you ready to play around with it? Edit some text, click "render website" and see what happens. 
-
-
-
-
-
-
-
-
-
-
+Are you ready to play around with it? Edit some text, click "render website" and see what happens.

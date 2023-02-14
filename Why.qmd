@@ -4,15 +4,15 @@ title: "Why Do This"
 
 # Why Do This
 
-It’s free. It’s challenging. It can be fun.
+It's free. It's challenging. It can be fun.
 
 # What You Can Expected
 
-Wanna see the file structure and language before installing? 
+Wanna see the file structure and language before installing?
 
-The homepage is a set of files. Each file can be opened with a text editor. 
+The homepage is a set of files. Each file can be opened with a text editor.
 
-The underlying code for this site is hosted on GitHub:  
+The underlying code for this site is hosted on GitHub:
 
 <https://github.com/EUV-student/homepage>
 
@@ -21,7 +21,7 @@ library(webshot2)
 webshot("https://github.com/EUV-student/homepage")
 ```
 
-The landing page is `index.qmd`, inspect it in your browser: 
+The landing page is `index.qmd`, inspect it in your browser:
 
 <https://github.com/EUV-student/homepage/blob/main/index.qmd>
 
@@ -29,12 +29,12 @@ The landing page is `index.qmd`, inspect it in your browser:
 webshot("https://github.com/EUV-student/homepage/blob/main/index.qmd")
 ```
 
-You see that `<center> text </center>` centers text and elements. 
+You see that `<center> text </center>` centers text and elements.
 
-The `iframe` tag comes straightforward from YouTube (right click embed code). 
+The `iframe` tag comes straightforward from YouTube (right click embed code).
 
 Styling works through markup languages. You can use `html` and `markdown`.
 
-Other markup languages can be found in `LaTeX` or `Wikipedia`. 
+Other markup languages can be found in `LaTeX` or `Wikipedia`.
 
 If you like that, continue.
